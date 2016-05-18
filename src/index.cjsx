@@ -1,3 +1,7 @@
+# required by coffee-react when using rest spread operator
+objectAssign = require 'object.assign/polyfill'
+objectAssign()
+
 React = require 'react'
 md5 = require 'md5'
 querystring = require 'querystring'

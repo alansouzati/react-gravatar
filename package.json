@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "is-retina": "^1.0.3",
-    "md5": "^2.0.0"
+    "md5": "^2.0.0",
+    "object.assign": "^4.0.3"
   },
   "devDependencies": {
     "babelify": "^6.4.0",
